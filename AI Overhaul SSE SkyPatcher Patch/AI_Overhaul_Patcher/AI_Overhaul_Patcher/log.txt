@@ -1,0 +1,171 @@
+  復元対象のプロジェクトを決定しています...
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4':   SHA256 ハッシュ: 5A2901D6ADA3D18260B9C6DFE2133C95D74B9EEF6AE0E5DC334C8454D1477DF4
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4':   有効期間: 2021/2/16 9:00:00 から 2024/5/16 8:59:59
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1':   SHA256 ハッシュ: 5A2901D6ADA3D18260B9C6DFE2133C95D74B9EEF6AE0E5DC334C8454D1477DF4
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1':   有効期間: 2021/2/16 9:00:00 から 2024/5/16 8:59:59
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4': リポジトリのプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1': リポジトリのプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4': リポジトリのプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1': リポジトリのプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   SHA256 ハッシュ: AA12DA22A49BCE7D5C1AE64CC1F3D892F150DA76140F210ABD2CBFFCA2C18A27
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   有効期間: 2020/9/30 9:00:00 から 2023/10/5 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   SHA256 ハッシュ: AA12DA22A49BCE7D5C1AE64CC1F3D892F150DA76140F210ABD2CBFFCA2C18A27
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   有効期間: 2020/9/30 9:00:00 から 2023/10/5 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 作成者のプライマリ署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 
+  署名の種類: Repository
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 作成者のプライマリ署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 
+  署名の種類: Author
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 
+  署名の種類: Author
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 
+  署名の種類: Repository
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   サブジェクト名: CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   SHA256 ハッシュ: 3F9001EA83C560D712C24CF213C3D312CB3BFF51EE89435D3430BD06B5D0EECE
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   SHA256 ハッシュ: 5A2901D6ADA3D18260B9C6DFE2133C95D74B9EEF6AE0E5DC334C8454D1477DF4
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3':   有効期間: 2021/2/16 9:00:00 から 2024/5/16 8:59:59
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   有効期間: 2018/2/26 9:00:00 から 2021/1/27 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': リポジトリ副署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   SHA256 ハッシュ: 5A2901D6ADA3D18260B9C6DFE2133C95D74B9EEF6AE0E5DC334C8454D1477DF4
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': リポジトリ副署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1':   有効期間: 2021/2/16 9:00:00 から 2024/5/16 8:59:59
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 
+  署名の種類: Repository
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 
+  署名の種類: Repository
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': リポジトリ副署名 の有効期限が切れています。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 
+  署名の種類: Repository
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   サブジェクト名: CN=NuGet.org Repository by Microsoft, O=NuGet.org Repository by Microsoft, L=Redmond, S=Washington, C=US
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   SHA256 ハッシュ: 0E5F38F57DC1BCC806D8494F4F90FBCEDD988B46760709CBEEC6F4219AA6157D
+  ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0':   有効期間: 2018/4/10 9:00:00 から 2021/4/14 21:00:00
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+  C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj を復元できませんでした (7.81 秒)。
+
+ビルドに失敗しました。
+
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4': リポジトリのプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1': リポジトリのプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'StrongInject 1.4.4': リポジトリのプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'CommandLineParser 2.9.1': リポジトリのプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.Principal.Windows 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 作成者のプライマリ署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.IO.Pipelines 6.0.3': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Extensions.Logging.Abstractions 6.0.1': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': 作成者のプライマリ署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Security.AccessControl 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.Win32.Registry 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Collections.Immutable 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'System.Threading.Tasks.Extensions 4.5.4': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3037: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': リポジトリ副署名 の有効期限が切れています。
+C:\Modding\MO2\mods\AI Overhaul SSE SkyPatcher Patch\AI_Overhaul_Patcher\AI_Overhaul_Patcher\AI_Overhaul_Patcher.csproj : error NU3028: ソース 'https://api.nuget.org/v3/index.json' からのパッケージ 'Microsoft.NETCore.Platforms 5.0.0': リポジトリ副署名 のタイムスタンプ証明書は信頼プロバイダーによって信頼されていません。
+    0 個の警告
+    36 エラー
+
+経過時間 00:00:09.47
